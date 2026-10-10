@@ -21,6 +21,6 @@ $ $\color{#e50945}{　　◞◟}$
 <br>
 <br>
 
-<p align="center" >
+<p align="right" >
 
 $\color{#e50945}{watch}$ $\color{#ff7398}{someone}$ $\color{#e50945}{like}$ $\color{#ff7398}{you}$ 

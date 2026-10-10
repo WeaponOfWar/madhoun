@@ -1,7 +1,7 @@
 <img align="right" alt="Ivory" src="https://github.com/user-attachments/assets/69994553-dc86-42ac-a622-083d322307fa" />
 <p align="left" >
   
-$\color{#ff7398}{Jealousy,}$ $\color{#e50945}{ jealousy,}$ $\color{#ff7398}{jealousy}$ $\color{#e50945}{It's}$ $\color{#ff7398}{such}$ $\color{#e50945}{an}$ $\color{#ff7398}{evil}$ $\color{#e50945}{thing}$ $\color{#ff7398}{to}$ $\color{#e50945}{watch}$ $\color{#ff7398}{someone}$ $\color{#e50945}{like}$ $\color{#ff7398}{you}$ 
+$\color{#ff7398}{Jealousy,}$ $\color{#e50945}{ jealousy,}$ $\color{#ff7398}{jealousy}$ $\color{#e50945}{It's}$ $\color{#ff7398}{such}$ $\color{#e50945}{an}$ $\color{#ff7398}{evil}$ $\color{#e50945}{thing}$ $\color{#ff7398}{to}$ 
 <p align="center">
         
 
@@ -17,3 +17,4 @@ $ $\color{#e50945}{　　◞◟}$
 
 </p>
 <img align="left" alt="unnamed (4)" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />
+ $\color{#e50945}{watch}$ $\color{#ff7398}{someone}$ $\color{#e50945}{like}$ $\color{#ff7398}{you}$ 

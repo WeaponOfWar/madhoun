@@ -1,8 +1,10 @@
 <img align="right" alt="Ivory" src="https://github.com/user-attachments/assets/69994553-dc86-42ac-a622-083d322307fa" />
 <p align="left" >
   
-$\color{#ff7398}{How}$ $\color{#e50945}{can}$ $\color{#ff7398}{people}$ $\color{#e50945}{say}$ $\color{#ff7398}{that}$ $\color{#e50945}{kind}$ $\color{#ff7398}{of}$ $\color{#e50945}{love}$ $\color{#ff7398}{is}$ $\color{#e50945}{wrong?}$
+$\color{#ff7398}{Jealousy,}$ $\color{#e50945}{ jealousy,}$ $\color{#ff7398}{jealousy}$ $\color{#e50945}{It's}$ $\color{#ff7398}{such}$ $\color{#e50945}{an}$ $\color{#ff7398}{evil}$ $\color{#e50945}{thing}$ $\color{#ff7398}{to}$ $\color{#e50945}{watch}$ $\color{#ff7398}{someone}$ $\color{#e50945}{like}$ $\color{#ff7398}{you}$ 
 <p align="center">
+        
+
 
   <p align="left" >
 $\color{#e50945}{  ◞◟　}$ $\color{#ff7398}{𓎟𓎟　 ✦　　𓎟𓎟}

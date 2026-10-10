@@ -18,4 +18,7 @@ $ $\color{#e50945}{　　◞◟}$
 </p>
 <img align="left" alt="unnamed (4)" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />
 <br>
+
+<p align="left" >
+
 $\color{#e50945}{watch}$ $\color{#ff7398}{someone}$ $\color{#e50945}{like}$ $\color{#ff7398}{you}$ 

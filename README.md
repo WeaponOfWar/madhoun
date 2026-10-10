@@ -10,13 +10,19 @@ $\color{#ff7398}{Jealousy,}$ $\color{#e50945}{ jealousy,}$ $\color{#ff7398}{jeal
 $\color{#e50945}{  ◞◟　}$ $\color{#ff7398}{𓎟𓎟　 ✦　　𓎟𓎟}
 $ $\color{#e50945}{　　◞◟}$
 <p align="center">
+<p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=f81f76&bar_color_cover=false">
+  </a>
+</p>
   </a>
 </p>
 
 </p>
 <img align="center" alt="ivory" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />
+
+<p align="left" >
+  $\color{#e50945}{ㅤㅤㅤㅤ❀}$  <a href="https://madhound.atabook.org/">Ata</a>  $\color{#ff7398}{❀}$ <a href="https://madhounds.straw.page/">Strawp</a>  $\color{#e50945}{❀}$
 
 <br>
 <br>

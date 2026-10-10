@@ -1,4 +1,18 @@
-<img align="right" alt="Ivory" src="https://github.com/user-attachments/assets/e82ba72a-f5d7-4fc4-900d-542af73cacb9" />
+<img align="right" alt="Ivory" src="https://github.com/user-attachments/assets/11529a7a-abd3-489a-b50b-7498414656c9" />
 <p align="left" >
   
-$\color{#242236}{How}$ $\color{#242236}{can}$ $\color{#242236}{people}$ $\color{#242236}{say}$ $\color{#242236}{that}$ $\color{#242236}{kind}$ $\color{#242236}{of}$ $\color{#242236}{love}$ $\color{#242236}{is}$ $\color{#242236}{wrong?}$
+$\color{#ff7398}{How}$ $\color{#e50945}{can}$ $\color{#ff7398}{people}$ $\color{#e50945}{say}$ $\color{#ff7398}{that}$ $\color{#e50945}{kind}$ $\color{#ff7398}{of}$ $\color{#e50945}{love}$ $\color{#ff7398}{is}$ $\color{#e50945}{wrong?}$
+<p align="center">
+  <br>
+  <br> 
+  <p align="left" >
+$\color{#e50945}{  ◞◟　}$ $\color{#ff7398}{𓎟𓎟　 ✦　　𓎟𓎟}
+$ $\color{#e50945}{　　◞◟}$
+    <br>
+  <br> 
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+<img align="center" alt="unnamed (4)" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />

@@ -16,19 +16,12 @@ $ $\color{#e50945}{　　◞◟}$
 </p>
 
 </p>
-<img align="left" alt="ivory" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />
+<img align="center" alt="ivory" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />
 
 <br>
 <br>
 
 <p align="right" >
 
-text
 
-
-
-
-
-
-     
 $\color{#e50945}{watch}$ $\color{#ff7398}{someone}$ $\color{#e50945}{like}$ $\color{#ff7398}{you}$ 

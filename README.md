@@ -3,13 +3,11 @@
   
 $\color{#ff7398}{How}$ $\color{#e50945}{can}$ $\color{#ff7398}{people}$ $\color{#e50945}{say}$ $\color{#ff7398}{that}$ $\color{#e50945}{kind}$ $\color{#ff7398}{of}$ $\color{#e50945}{love}$ $\color{#ff7398}{is}$ $\color{#e50945}{wrong?}$
 <p align="center">
-  <br>
-  <br> 
+
   <p align="left" >
 $\color{#e50945}{  ◞◟　}$ $\color{#ff7398}{𓎟𓎟　 ✦　　𓎟𓎟}
 $ $\color{#e50945}{　　◞◟}$
-    <br>
-  <br> 
+
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">

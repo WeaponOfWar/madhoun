@@ -21,7 +21,7 @@ $ $\color{#e50945}{　　◞◟}$
 <img align="center" alt="ivory" src="https://github.com/user-attachments/assets/a937ec04-d7d4-4814-9d10-c2272d65df0f" />
 
 <p align="left" >
-  $\color{#e50945}{ㅤㅤㅤㅤㅤ❀}$  <a href="https://madhound.atabook.org/">Ata</a>  $\color{#ff7398}{❀}$ <a href="https://ivorycelloo.straw.page/">Strawp</a>  $\color{#e50945}{❀}$ <a href="https://rentry.co/itsmewemmbu_">Rentry</a> $\color{#ff7398}{❀}$
+  $\color{#e50945}{ㅤㅤㅤㅤ❀}$  <a href="https://madhound.atabook.org/">Ata</a>  $\color{#ff7398}{❀}$ <a href="https://ivorycelloo.straw.page/">Strawp</a>  $\color{#e50945}{❀}$ <a href="https://rentry.co/itsmewemmbu_">Rentry</a> $\color{#ff7398}{❀}$
 
 <br>
 <br>
